@@ -1,6 +1,8 @@
 # Project-Timer
 Project Timer addon for Blender 3
+
 ![Timer in the TOPBAR](https://github.com/theres1/Project-Timer/blob/main/demo.jpg?raw=true)
+
 This an updated version of [https://archive.blender.org/wiki/index.php/Extensions:2.6/Py/Scripts/System/Project_Timer/](https://archive.blender.org/wiki/index.php/Extensions:2.6/Py/Scripts/System/Project_Timer/)
 
 # Installation
